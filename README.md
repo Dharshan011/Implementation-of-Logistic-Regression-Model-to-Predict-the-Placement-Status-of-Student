@@ -40,6 +40,7 @@ Developed by: DHARSHAN V
 RegisterNumber:  212222230031
 */
 ```
+```
 import pandas as pd
 
 data = pd.read_csv("Placement_Data.csv")
@@ -112,20 +113,6 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![Screenshot 2023-09-28 133306](https://github.com/Dharshan011/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113497491/22caf5e4-e8f3-44d0-9fa0-2166490dddf7)
 
 ![Screenshot 2023-09-28 133314](https://github.com/Dharshan011/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/113497491/2ef7ebc8-dd70-4144-be0f-9b3989faac64)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
